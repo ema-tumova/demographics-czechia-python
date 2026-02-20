@@ -3,7 +3,7 @@
 ### Demographics of Czechia - Visualization and data analysis in Python
 
 In this project, I demonstrate my skills in data analysis and data visualization in Python. 
-The topic is the development of chosen demographics indicators in Czechia.
+The topic is the development of chosen demographic indicators in Czechia.
 
 <ins>Summary:<ins>
 - read .csv files from an open data source
