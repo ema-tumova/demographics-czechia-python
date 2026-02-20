@@ -16,3 +16,5 @@ The topic is the development of chosen demographics indicators in Czechia.
 
 <ins>Datasets source:<ins>
 - Český statistický úřad
+
+Given the nature of the source data, I left the project itself in Czech.
